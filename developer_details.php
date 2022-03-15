@@ -109,7 +109,7 @@ developer details page that gives information on a certain developer and lists a
                     <th scope="col"></th>
                     <th data-sortable="true" scope="col">Title</th>
                     <th data-sortable="true" scope="col">Series</th>
-                    <th data-sortable="true" scope="col">Developer</th>
+                 
                     <th data-sortable="true" scope="col">Publisher</th>
                     <th data-sortable="true" scope="col">Release Date</th>
                 </tr>
